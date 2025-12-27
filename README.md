@@ -1,5 +1,7 @@
-## Hi there 👋
+## ⚡ Wrangling Electrons with a bit of evil
+Engineering, reverse engineering, un-engineering and re-engineering both hard and soft bits
 
+The only good Bug is a dead Bug! Would you like to know more? 💬
 <!--
 **evilelectron/evilelectron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
